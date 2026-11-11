@@ -1,0 +1,22 @@
+ONLINE RETAIL DATA QUALITY REPORT
+=============================================
+
+CLEANING SUMMARY
+-------------------------
+original_rows: 541909
+final_rows: 536641
+duplicates_removed: 5268
+rows_preserved: 536641
+
+VALIDATION RESULTS
+-------------------------
+missing_descriptions: 1454
+missing_customer_ids: 135037
+invalid_dates: 0
+negative_quantities: 10587
+zero_prices: 2510
+negative_prices: 2
+cancelled_invoices: 9251
+remaining_duplicates: 0
+
+Report generated successfully.

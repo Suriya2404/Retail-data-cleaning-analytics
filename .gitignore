@@ -1,0 +1,25 @@
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.idea/
+
+# Dataset files
+data/raw/*
+data/processed/*
+
+# Keep folder placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
