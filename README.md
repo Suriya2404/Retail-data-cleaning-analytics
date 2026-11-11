@@ -80,6 +80,22 @@ The Streamlit dashboard includes:
 3. Retail Sales Analysis
 4. Dataset Explorer
 
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](screenshots/overview.png)
+
+### 2. Data Quality Analysis
+![Data Quality](screenshots/data_quality.png)
+
+### 3. Retail Sales Analysis
+![Sales Analysis](screenshots/sales_analysis.png)
+
+### 4. Dataset Explorer
+![Dataset Explorer](screenshots/dataset_explorer.png)
+
+
 ## How to Run
 
 Clone the repository:
